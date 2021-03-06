@@ -2,7 +2,7 @@
 
 ### 闲话不多说，先上效果图
 
-![img](https://github.com/Panda-X6646/Mine-Clearance/tree/master/img/扫雷.JPG)
+![img](https://github.com/Panda-X6646/Mine-Sweeper/tree/master/img/扫雷.JPG)
 
 ## 实现的功能
 
