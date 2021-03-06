@@ -2,8 +2,7 @@
 
 ### 闲话不多说，先上效果图
 
-![image](https://github.com/Panda-X6646/Mine-Sweeper/tree/master/img/扫雷.JPG)
-
+![image](https://github.com/Panda-X6646/Mine-Sweeper/blob/master/img/扫雷.JPG)
 ## 实现的功能
 
 - ### 点击控制后按钮可以生成对应难度的雷盘
